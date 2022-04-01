@@ -1,3 +1,3 @@
-module github.com/Nagaoraza/goSayHi/v2
+module github.com/Nagaoraza/go-say-hi/v2
 
 go 1.17
